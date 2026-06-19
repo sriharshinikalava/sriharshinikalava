@@ -46,7 +46,7 @@ https://github.com/sriharshinikalava/Superstore-Sales-Analysis-PowerBI
 
 ## 📫 Connect With Me
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/sri-harshini-kalava-536293388
 
 ---
 
