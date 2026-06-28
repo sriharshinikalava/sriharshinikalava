@@ -18,6 +18,7 @@ I am building my skills in Power BI, SQL, Python, and Data Visualization to tran
 - Power Query
 - Data Visualization
 - Data Analysis
+- Business Intelligence
 
 ---
 
