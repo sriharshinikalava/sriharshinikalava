@@ -43,7 +43,7 @@ https://github.com/sriharshinikalava/Superstore-Sales-Analysis-PowerBI
 - Used JOINs, GROUP BY, and aggregate functions to generate business insights
 
 🔗 Project Repository:
-(ikkada nee SQL GitHub link paste cheyyi)
+https://github.com/sriharshinikalava/Ecommerce-Sales-SQL-Analysis
 
 ---
 
