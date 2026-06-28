@@ -34,6 +34,17 @@ I am building my skills in Power BI, SQL, Python, and Data Visualization to tran
 🔗 Project Repository:
 https://github.com/sriharshinikalava/Superstore-Sales-Analysis-PowerBI
 
+### 🗄️ Ecommerce Sales Analysis using SQL
+
+**Tools Used:** MySQL | SQL | MySQL Workbench
+
+- Designed a relational database with multiple tables
+- Performed sales, customer, and product analysis using SQL queries
+- Used JOINs, GROUP BY, and aggregate functions to generate business insights
+
+🔗 Project Repository:
+(ikkada nee SQL GitHub link paste cheyyi)
+
 ---
 
 ## 🌱 Currently Learning
